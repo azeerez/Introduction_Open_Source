@@ -1,0 +1,21 @@
+{
+    "type": "module",
+    "private": false,
+    "name": "@azeerez/Introduction_Open_Source",
+    "description": "The best project",
+    "version": "0.1.0",
+    "homepage": "https://github.com/azeerez/Projet_OpenSource",
+    "license": "GPL-3.0-or-later",
+    "main": "src/index.js",
+    "bugs": {
+      "url": "https://github.com/azeerez/Projet_OpenSource/issues"
+    },
+    "author": {
+      "name": "Nolhan Balkis Luca",
+      "url": "https://github.com/azeerez"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/azeerez/Introduction_Open_Source.git"
+    }
+  }
